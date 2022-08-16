@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <section class="text-center">
+    <section class="text-center margin-top-section">
 
         <H1>Bitte entnehmen Sie ihre Quittung</H1>
 
