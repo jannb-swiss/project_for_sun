@@ -1886,7 +1886,7 @@ url(/fonts/vendor/bootstrap-icons/bootstrap-icons.woff?e559bf06bc84fd9525e61ead3
 }
 
 .btn-mod {
-  background-color: #4c7caf; /* Green */
+  background-color: #0d6efd; /* Green */
   border: none;
   color: white;
   padding: 25px 60px;
@@ -1898,7 +1898,14 @@ url(/fonts/vendor/bootstrap-icons/bootstrap-icons.woff?e559bf06bc84fd9525e61ead3
 }
 
 .btn-mod:hover {
-  opacity: 1;
+  background-color: #0b5ed7;
+  color: white;
+  transition: 0.7s;
+}
+
+.weight-mod {
+  width: 500px;
+  display: inline-block;
 }
 
 /*!

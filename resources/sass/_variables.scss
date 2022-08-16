@@ -15,7 +15,7 @@ $line-height-base: 1.6;
 }
 
 .btn-mod {
-    background-color: #4c7caf; /* Green */
+    background-color: #0d6efd; /* Green */
     border: none;
     color: white;
     padding: 25px 60px;
@@ -26,4 +26,13 @@ $line-height-base: 1.6;
     font-size: 40px;
 }
 
-.btn-mod:hover {opacity: 1}
+.btn-mod:hover {
+    background-color: #0b5ed7;
+    color: white;
+    transition: 0.7s;
+}
+
+.weight-mod {
+    width: 500px;
+    display: inline-block;
+}
