@@ -18,7 +18,7 @@
 
     <script>
         setTimeout(function() {
-            window.location.href = "http://127.0.0.1:8000/five"
+            window.location.href = "http://68.183.1.72/five"
         }, 5000); // 2 second
 
         var timeleft = 4;
