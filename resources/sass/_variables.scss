@@ -1,0 +1,29 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+.margin-top-section {
+    margin-top: 270px;
+}
+
+.h1-mod {
+    font-size: 60px;
+}
+
+.btn-mod {
+    background-color: #4c7caf; /* Green */
+    border: none;
+    color: white;
+    padding: 25px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 40px;
+}
+
+.btn-mod:hover {opacity: 1}
